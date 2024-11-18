@@ -4,7 +4,7 @@
 - 🌱  I’m currently pursuing a B.Tech in Artificial Intelligence, specializing in computational linguistics and data-driven technologies. 
 - 📫  You can reach me via:
         Email: ridhiverma2019@gmail.com
-        LinkedIn: linkedin.com/in/ridhi-verma-a9ba1128a
+        LinkedIn:https://www.linkedin.com/in/ridhi-verma-a9ba1128a/
 - 😄 My Pronouns: she/her
 - ⚡ Fun fact: I authored a research paper on Hidden Markov Models for NLP applications.
 - 💡 I’m interested in AI research and solving real-world problems using data science.
