@@ -3,7 +3,6 @@
 </h3>
 
 
- Welcome to my GitHub profile! 
 - 👀  I’m passionate about data science, machine learning, and natural language processing. I love building intelligent solutions and exploring innovative technologies.
 - 🌱  I’m currently pursuing a B.Tech in Artificial Intelligence, specializing in computational linguistics and data-driven technologies. 
 - 📫  You can reach me via:
