@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I’m+Ridhi.+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h3>
 
-
+- 🌸 I’m currently contributing to open source through [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/).
 - 👀  I’m passionate about data science, machine learning, and natural language processing. I love building intelligent solutions and exploring innovative technologies.
 - 🌱  I’m currently pursuing a B.Tech in Artificial Intelligence, specializing in computational linguistics and data-driven technologies. 
 - 📫  You can reach me via:
