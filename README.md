@@ -17,7 +17,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github,vscode,tensorflow,pytorch,sklearn,matlab,opencv,mysql,netlify,express,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,js,react,python,git,github,vscode,matlab,opencv,mysql,firebase&perline=8" />
 </p>
 
 
